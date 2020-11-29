@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SLEDAI-Calculator/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/SLEDAI-Calculator/static/js/main.0cd4c113.chunk.js",
+    "main.js.map": "/SLEDAI-Calculator/static/js/main.0cd4c113.chunk.js.map",
+    "runtime-main.js": "/SLEDAI-Calculator/static/js/runtime-main.663fffc4.js",
+    "runtime-main.js.map": "/SLEDAI-Calculator/static/js/runtime-main.663fffc4.js.map",
+    "static/js/2.811a9a56.chunk.js": "/SLEDAI-Calculator/static/js/2.811a9a56.chunk.js",
+    "static/js/2.811a9a56.chunk.js.map": "/SLEDAI-Calculator/static/js/2.811a9a56.chunk.js.map",
+    "static/js/3.ec5262ac.chunk.js": "/SLEDAI-Calculator/static/js/3.ec5262ac.chunk.js",
+    "static/js/3.ec5262ac.chunk.js.map": "/SLEDAI-Calculator/static/js/3.ec5262ac.chunk.js.map",
+    "index.html": "/SLEDAI-Calculator/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/SLEDAI-Calculator/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.811a9a56.chunk.js.LICENSE.txt": "/SLEDAI-Calculator/static/js/2.811a9a56.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/SLEDAI-Calculator/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.663fffc4.js",
+    "static/js/2.811a9a56.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0cd4c113.chunk.js"
+  ]
+}
