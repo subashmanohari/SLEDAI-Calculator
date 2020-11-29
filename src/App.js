@@ -18,7 +18,7 @@ function App() {
               arr[idx]=1,
             ] )
           }} style={{background: selected[idx]===1? "#84e07e": "yellow",color: "black"}}> ({idx+1}) {dname} score={values[idx]}</button>
-          <spa> </spa>
+          <span> </span>
           <button disabled={selected[idx]===0} onClick={() => {
             setSum(sum-values[idx]);
             setSelected((arr) => [
@@ -34,7 +34,7 @@ function App() {
       <button onClick={() => {
         setSum(0);
         setSelected([0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
-        }}>Reset</button>
+        }}>Clear</button>
     </div>
   );
 }
